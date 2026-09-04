@@ -25,5 +25,5 @@ git checkout main
 git cherry-pick <commit-hash>
 git log --oneline
 
-![Task 2 Output](screenshots/task2.1.png)
-![Task 2 Output](screenshots/task2.2.png)
+![Task 2.1 Output](screenshots/task2.1.png)
+![Task 2.2 Output](screenshots/task2.2.png)

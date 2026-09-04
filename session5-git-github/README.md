@@ -14,6 +14,9 @@ Practiced the difference between `git commit -m` and `git commit -a -m`.
 
 Created commits in a new branch, viewed commits using `git log`, and cherry-picked a selected commit into the `main` branch.
 
+![Task 2.1 Output](screenshots/task2.1.png)
+![Task 2.2 Output](screenshots/task2.2.png)
+
 ### Commands Used
 
 ```bash
@@ -25,5 +28,3 @@ git checkout main
 git cherry-pick <commit-hash>
 git log --oneline
 
-![Task 2.1 Output](screenshots/task2.1.png)
-![Task 2.2 Output](screenshots/task2.2.png)
